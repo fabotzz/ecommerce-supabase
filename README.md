@@ -3,17 +3,6 @@
 ## Descrição do Projeto
 Backend completo para sistema de e-commerce desenvolvido com Supabase, implementando todas as funcionalidades requisitadas no teste técnico.
 
-## Estrutura do Projeto
-src/
-├── database/
-│ ├── 01-tables.sql # Criação das tabelas
-│ ├── 02-rls-policies.sql # Políticas de segurança
-│ ├── 03-functions.sql # Funções do banco
-│ └── 04-views.sql # Views otimizadas
-└── edge-functions/
-├── send-order-confirmation/ # Envio de confirmações
-└── export-order-csv/ # Exportação de relatórios
-
   
 ## Funcionalidades Implementadas
 
