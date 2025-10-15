@@ -11,8 +11,8 @@ src/
 │ ├── 03-functions.sql # Funções do banco
 │ └── 04-views.sql # Views otimizadas
 └── edge-functions/
-  ├── send-order-confirmation/ # Envio de confirmações
-  └── export-order-csv/ # Exportação de relatórios
+├── send-order-confirmation/ # Envio de confirmações
+└── export-order-csv/ # Exportação de relatórios
 
   
 ## Funcionalidades Implementadas
